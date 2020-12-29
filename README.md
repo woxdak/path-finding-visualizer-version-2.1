@@ -16,7 +16,8 @@ Download the code in the the src folder and run on Intellij
 
 ## Dijkstra
 
-<img width="912" alt="Screen Shot 2020-12-28 at 7 08 38 PM" src="https://user-images.githubusercontent.com/43390744/103251846-37edd480-4940-11eb-9a28-eccac9d6fe73.png">
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/43390744/103252960-9cab2e00-4944-11eb-98ea-660e9370ce7e.gif)
+
 
 ## A*
 
