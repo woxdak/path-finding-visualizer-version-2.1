@@ -7,7 +7,7 @@ This project uses JavaFx framwork to visualize Dijkstra and A* algorithm on a gr
 - It also support finding the shortest path in diagonal (just simply check the box on the controll pane).
 
 
-<img width="912" alt="Screen Shot 2020-12-28 at 7 08 21 PM" src="https://user-images.githubusercontent.com/43390744/103251845-36241100-4940-11eb-80e4-3e3f24769fe0.png">
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/43390744/103253263-0d067f00-4946-11eb-812f-c2fa662cea18.gif)
 
 
 ## Run path visualizer
