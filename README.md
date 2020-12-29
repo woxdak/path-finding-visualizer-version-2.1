@@ -29,7 +29,7 @@ Update from version 1
   - Could be improve in the performance
 ##
 Src
-  -Maze generator:
+  - Maze generator:
   https://bitbucket.org/c0derepo/prime-algo-maze-generation/src/master/src/common/
-  -Version 1:
+  - Version 1:
   https://github.com/apbeecham/pathfinding
