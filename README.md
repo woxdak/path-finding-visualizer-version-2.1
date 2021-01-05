@@ -23,6 +23,8 @@ Download the code in the the src folder and run on Intellij
 
 <img width="912" alt="Screen Shot 2020-12-28 at 7 09 04 PM" src="https://user-images.githubusercontent.com/43390744/103251841-345a4d80-4940-11eb-8019-9c6dada39101.png">
 
+## Video
+https://youtu.be/Bm-yrHga8lA
 ## Source
 Update from version 1 
   - Show how to create a maze
